@@ -28,4 +28,4 @@ Mac                      29 hrs 11 mins      ███████████�
  Last Updated on 05/07/2022 07:21:09 UTC
 <!--END_SECTION:waka-->
 
-[![Renjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=liurenjie1024)](https://github.com/anuraghazra/github-readme-stats)
+[![Renjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=liurenjie1024&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
