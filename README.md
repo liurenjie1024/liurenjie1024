@@ -1,7 +1,7 @@
 [![Renjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=liurenjie1024&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
@@ -27,6 +27,6 @@ Mac                      10 hrs 11 mins      ███████████�
 ```
 
 
- Last Updated on 27/07/2022 08:08:27 UTC
+ Last Updated on 27/07/2022 08:09:58 UTC
 <!--END_SECTION:waka-->
 
