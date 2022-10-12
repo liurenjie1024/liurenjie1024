@@ -1,7 +1,7 @@
 [![Renjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=liurenjie1024&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -11,17 +11,20 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    5 hrs 32 mins       █████████████████████████   99.82% 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15% 
+Protocol Buffer          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  5 hrs 32 mins       █████████████████████████   99.82% 
+CLion                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 hrs 33 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 12/10/2022 05:05:32 UTC
+ Last Updated on 12/10/2022 23:02:20 UTC
 <!--END_SECTION:waka-->
 
