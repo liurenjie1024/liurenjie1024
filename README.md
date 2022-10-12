@@ -1,7 +1,7 @@
 [![Renjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=liurenjie1024&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -22,6 +22,6 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/10/2022 04:08:32 UTC
+ Last Updated on 12/10/2022 04:10:38 UTC
 <!--END_SECTION:waka-->
 
